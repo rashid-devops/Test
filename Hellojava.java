@@ -5,7 +5,7 @@ System.out.println (" This Job is being executed from GitHub");
 for(int i=0;i<=10;i++)
 {
 System.out.println("Hello Rashid");
-Syste.out.println("Hello Jenkins");
+System.out.println("Hello Jenkins");
 }
 }
 }
